@@ -1,0 +1,41 @@
+Algunos enlaces y trabajos online útiles:
+
+ + Blog de Mihaljevic para modelos SIR en STAN:
+   https://jrmihalj.github.io/estimating-transmission-by-fitting-mechanistic-models-in-Stan/
+
+ + Blog de Andrew Gellman: para estimar covid19 infection rate in Santa Clara:
+   https://statmodeling.stat.columbia.edu/2020/05/01/simple-bayesian-analysis-inference-of-coronavirus-infection-rate-from-the-stanford-study-in-santa-clara-county/
+
+ + Blog de Andrew Gellman: modelo Coronavirus para medir los efectos de distanciamiento:
+   https://statmodeling.stat.columbia.edu/2020/04/30/updated-imperial-college-coronavirus-model-including-estimated-effects-on-transmissibility-of-lockdown-social-distancing-etc/
+
+ + Modelo Intgarch para estimar casos de covid19 en España:
+   https://scabras.github.io/cvirus/
+ 
+ + Blog de Andrew Gellman: modelo Coronavirus universidad de Bern
+   https://statmodeling.stat.columbia.edu/2020/03/09/coronavirus-model-update-background-assumptions-and-room-for-improvement/
+
+ + Preprint Kubinec y Carvalho:
+   https://osf.io/preprints/socarxiv/jp4wk
+   github: https://github.com/saudiwin/corona_tscs
+
+ + Paper del Journal de Medicina en New England:
+   https://www.nejm.org/doi/10.1056/NEJMc2004973
+
+ + Resources for Covid19 in clinical trial design:
+   http://hbiostat.org/proj/covid19/
+
+ + Paper Risk for Transportation of Covid19 from Wuhan
+   https://wwwnc.cdc.gov/eid/article/26/5/20-0146_article
+ 
+ + Repositorio de data Covid19 por Hopkins CSSE
+   https://github.com/yoriyuki/COVID-19
+
+ + Paper: Estimating the burden of SARS-CoV-2 in France
+   https://hal-pasteur.archives-ouvertes.fr/pasteur-02548181/
+ 
+ + Logistic growth curves:
+   https://rpubs.com/bgautijonsson/HierarchicalLogisticGrowthCurves
+
+ + Covid19 in Iceland:
+   https://covid.hi.is/english/
